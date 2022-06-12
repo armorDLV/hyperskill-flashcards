@@ -1,5 +1,5 @@
 # hyperskill-flashcards
-Code generated during the course [Hyperskill - Flashcards](https://hyperskill.org/projects/80](https://hyperskill.org/projects/127)
+Code generated during the course [Hyperskill - Flashcards](https://hyperskill.org/projects/127)
 
 ---
 
